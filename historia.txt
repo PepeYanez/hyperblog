@@ -2,3 +2,4 @@ Esta es la historia del Pepe
 Pepe es Ing. Comercial y Magister en Mktg
 Pero a Pepe siempre le gustó mucho la tecnología
 Por eso, pepe está aprendiendo muchas cosas sobre desarrollo (C#, Python, .NET y GIT, entre otros)
+Ahora está aprendiendo en Platzi
